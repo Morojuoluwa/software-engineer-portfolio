@@ -6,7 +6,7 @@ export const profile = {
   phone: "+234 905 937 5974",
   phoneHref: "+2349059375974",
   availability: "Open to full-stack, frontend and backend roles",
-  cv: "/patrick-abimbola-cv.docx",
+  cv: "/patrick-olamide-cv.pdf",
   links: {
     github: "https://github.com/Morojuoluwa",
     linkedin: "https://www.linkedin.com/in/patrick-morojuoluwa",
