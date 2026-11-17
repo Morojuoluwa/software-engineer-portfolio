@@ -13,7 +13,7 @@ const item: Variants = {
 };
 
 const stats = [
-  { value: "3+", label: "Years shipping" },
+  { value: "4+", label: "Years shipping" },
   { value: "3", label: "Live products" },
   { value: "15+", label: "Projects built" },
 ];
@@ -51,7 +51,7 @@ export function Hero() {
           </motion.h1>
 
           <motion.p variants={item} className="mt-7 max-w-xl text-[15px] leading-relaxed text-muted md:text-base">
-            Three years shipping production software — interfaces, APIs and the data behind them, from
+            Four years shipping production software — interfaces, APIs and the data behind them, from
             cross-border payments and remittances to lending and trading platforms. React and TypeScript up front;
             Node, Go and PostgreSQL behind it.
           </motion.p>

@@ -9,7 +9,7 @@ export function Experience() {
         <Reveal>
           <SectionHeading
             index="02 — Experience"
-            title="Three years, three teams."
+            title="Four years, three teams."
             description="From front-end systems to the APIs and databases behind them, across exchanges, remittances, lending and payments."
           />
         </Reveal>
